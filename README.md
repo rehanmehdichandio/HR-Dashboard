@@ -5,7 +5,6 @@ This HR Analytics Dashboard provides a comprehensive overview of employee data t
 🔍 Key Insights
 
 Total Employees: 1,470
-
 Gender Ratio: 60% Male | 40% Female
 
 Promotion Status:
