@@ -1,34 +1,52 @@
-**📊 HR Dashboard – Full Insights**
+# 📊 HR Dashboard – Full Insights  
 
-This HR Analytics Dashboard provides a comprehensive overview of employee data to support strategic decision-making within Human Resources. Built using Power BI, it visualizes key HR metrics through an interactive and visually engaging interface.
+A professional **Power BI dashboard** designed to provide complete insights into employee data and workforce analytics.  
+It visualizes key HR metrics to help in monitoring performance, promotion status, and employee demographics effectively.  
 
-🔍 Key Insights
+---
 
-Total Employees: 1,470
-Gender Ratio: 60% Male | 40% Female
+## 🔍 Key Insights  
+- **Total Employees:** 1,470  
+- **Gender Distribution:** Male – 60% (882) | Female – 40% (588)  
+- **Promotion Status:** Not Due – 95.10% (1,398) | Due – 4.90% (72)  
+- **Active Workers:** 1,353 (92%)  
+- **Next Retrenchment:** 117 (8%)  
+- **Service Years:** Employee distribution across different years of service  
+- **Job Level View:** Employee hierarchy visualization (Levels 1–5)  
+- **Distance from Office:** Categorized as *Very Close*, *Close*, and *Very Far*  
 
-Promotion Status:
-Not Due for Promotion – 95.10%
-Due for Promotion – 4.90%
-Active Workers: 1,353 (92%)
-Next Retrenchment Candidates: 117 (8%)
-Service Years Breakdown: Distribution of employees based on years of service
-Job Level View: Employee count segmented by job level hierarchy
-Distance from Office: Categorized as Very Close, Close, or Very Far
+---
 
-🧠 Features
+## 🧠 Dashboard Features  
+- Interactive navigation panel with **Home, Action, and Detail** tabs  
+- Minimalist and clean UI with **soft shadows and rounded cards**  
+- **KPI cards** showing summarized employee metrics  
+- **Bar charts** for service years and job levels  
+- **Donut chart** for office distance visualization  
+- Modern **red-gray-white color palette** (#E04B4B, #FFFFFF, #F2F2F2) for better readability  
+- Fully responsive layout for clear data presentation  
 
-Interactive navigation panel (Home, Action, Detail)
-Clean, minimalist design with soft shadows and modern UI elements
-Insightful visualizations using bar charts, pie charts, and KPI cards
-Color scheme focused on clarity and emphasis (#E04B4B, white, light gray tones)
+---
 
-⚙️ Tools & Technologies
+## ⚙️ Tools & Technologies  
+- **Tool Used:** Microsoft Power BI  
+- **Data Source:** Simulated HR dataset  
+- **Visuals Used:** KPI Cards, Bar Charts, Donut Charts  
 
-Tool Used: Microsoft Power BI
-Data Source: Simulated HR dataset
-Visualization Type: KPI Cards, Bar Charts, Donut Charts
+---
 
-🚀 Purpose
+## 🚀 Purpose  
+This project aims to demonstrate **HR data analytics and visualization** using Power BI.  
+It enables better understanding of workforce distribution, performance, and promotion readiness through an interactive and data-driven dashboard.  
 
-To demonstrate practical HR analytics capabilities — tracking workforce demographics, performance, promotion readiness, and employee engagement insights — in an easily interpretable visual format
+---
+
+## 🧩 Author  
+**Rehan Mehdi**  
+_Data Visualization Engineer | Power BI & Excel Expert_  
+
+---
+
+### 📁 Repository Includes  
+- Dashboard screenshot (`HR_Dashboard.png`)  
+- Power BI file (`HR_Dashboard.pbix`) 
